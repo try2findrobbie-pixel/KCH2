@@ -1,0 +1,1 @@
+{ "name": "Indirect Actuation System", "author": "try2findrobbie-pixel", "description": "Fusion 360 script that models an indirect actuation system.", "version": "1.0.0", "script": "indirect_actuation_system.py", "supportedOS": "Windows|macOS" }
